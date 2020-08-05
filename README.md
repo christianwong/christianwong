@@ -6,12 +6,3 @@ I love web technologies and I want to keep developing with them, that makes me f
 In my repos you will find some personal and learning projects.
 
 Visit my page https://christianwong.dev and find my contact information 🖖
-
-## Learning in focus
-
-I'm reskilling myself in these technologies:
-
-- [ ] TypeScript 
-- [ ] React
-- [ ] React Native
-- [ ] Node.js
