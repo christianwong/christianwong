@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**christianwong/christianwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over the last years, I've been working as Team Leader and Scrum Master, helping and growing great web development teams.
+I love web technologies and I want to keep developing with them, that makes me feel really good! =)
 
-Here are some ideas to get you started:
+In my repos you will find some personal and learning projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Visit my page https://christianwong.dev and find my contact information 🖖
+
+## Learning in focus
+
+I'm reskilling myself in these technologies:
+
+- [ ] TypeScript 
+- [ ] React
+- [ ] React Native
+- [ ] Node.js
